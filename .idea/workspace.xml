@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7befa49c-b83c-4c6b-aa3d-3a399971af36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/AirConditionalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/BikeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/MBsBankSystem/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/TelevisionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Time1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/TurtleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/tddClass/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/tddClass/TddClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/tddClass/factorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/tddClass/packagedatastructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accounting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccountsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AirCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AirConditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/ReceiptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankGround/MyBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BreakTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBaseEmployee/BasePlusCommission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBaseEmployee/Commission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBaseEmployee/CommissionEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBaseEmployee/CommissionsEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Evolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForestCreature/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForestCreature/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForestCreature/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForestCreature/Python.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForestCreature/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Formula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionaStack/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MBsBankSystem/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MBsBankSystem/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModifiSystemPayroll/PayrollSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReceiptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Receipts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SevenSegment/SevenSegment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShowaRoom/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystemBookHotel/BookHotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Turtles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Votes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bankBalanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myersBriggs/Questionnaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/organizationpattern/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/positionArray.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CAwEsYkfk99Obci2OragsWcH8V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/user/IdeaProjects/javaExercise/Test/MBsBankSystem&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/javaExercise/src&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\javaExercise\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\javaExercise\Test\MBsBankSystem" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="organizationpattern" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="MBsBankSystem" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Assignment" />
+      <recent name="" />
+      <recent name="myersBriggs" />
+      <recent name="SevenSegment" />
+      <recent name="SystemBookHotel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TurtleTest">
+    <configuration name="Evolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Evolution" />
+      <module name="javaExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="positionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="positionArray" />
+      <module name="javaExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionTest.TelevisionChangeChannelFromOneToTwoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
+      <option name="METHOD_NAME" value="TelevisionChangeChannelFromOneToTwoTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurtleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TurtleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurtleTest.thereIsATurtle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TurtleTest" />
+      <option name="METHOD_NAME" value="thereIsATurtle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TurtleTest" />
+        <item itemvalue="JUnit.TurtleTest.thereIsATurtle" />
+        <item itemvalue="Application.positionArray" />
+        <item itemvalue="Application.Evolution" />
+        <item itemvalue="JUnit.TelevisionTest.TelevisionChangeChannelFromOneToTwoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7befa49c-b83c-4c6b-aa3d-3a399971af36" name="Changes" comment="" />
+      <created>1658258591537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658258591537</updated>
+      <workItem from="1658258593897" duration="10256000" />
+      <workItem from="1658346945233" duration="1057000" />
+      <workItem from="1658348127789" duration="2864000" />
+      <workItem from="1658527015960" duration="60519000" />
+      <workItem from="1658960507793" duration="375000" />
+      <workItem from="1658961029168" duration="85000" />
+      <workItem from="1658994328834" duration="1089000" />
+      <workItem from="1658995451301" duration="2833000" />
+      <workItem from="1658998832940" duration="3189000" />
+      <workItem from="1659005657697" duration="3799000" />
+      <workItem from="1659082094155" duration="1230000" />
+      <workItem from="1659168100451" duration="161000" />
+      <workItem from="1659168312204" duration="47865000" />
+      <workItem from="1659540400817" duration="3387000" />
+      <workItem from="1659601322862" duration="45983000" />
+      <workItem from="1659734301160" duration="28601000" />
+      <workItem from="1660208665118" duration="7195000" />
+      <workItem from="1660220790991" duration="1193000" />
+      <workItem from="1660253183057" duration="7290000" />
+      <workItem from="1660340573272" duration="2046000" />
+      <workItem from="1660342845612" duration="64405000" />
+      <workItem from="1661258364306" duration="37881000" />
+      <workItem from="1661695494671" duration="52741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
