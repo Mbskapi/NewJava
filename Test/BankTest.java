@@ -30,5 +30,19 @@
 //        Account account = mybank.findAccount("1");
 //        assertEquals("Emmy", account.getName());
 //}
+//    @Test
+//    public void withdrawnegativeamountfromaccount(){
+//        wemabank.creat
 //
+//
+//     //we have a book done
+//     //we have two accounts
+//     wemaBank.createAccountFor(accountname:"hadiza roll-on", pin: "needle");
+//        wemaBank.createAccountFor(accountname:"hopeson roll-on", pin:"thread");
+//        //account 1 has money
+//        wemaBank.deposit(amount: 5000, accountNumber:"1");
+//        assertEquals(expectd:5000, wemaBank.fineAccount(accountNumber: "1").getBalance(pin:"needle");
+//
+//        wemaBank.transfer(sender: "1", receiver: "2", amount: 4900, pin);
+//    }
 //}
