@@ -2,31 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7befa49c-b83c-4c6b-aa3d-3a399971af36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/FairTaxCalculateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/PollingExercise/PollTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AntArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BarChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/InputStreamSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/WhileCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cohort12/Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cohort12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cohort12/RegMatches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cohort12/Regex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PollingExercise/Poll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Radius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SketchPad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaxCollection/FairTaxCalculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaxCollection/FairTaxException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaxCollection/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaxCollection/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/ColdWar/Semicolon/CodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Titato/PlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/checkForOutlierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Kingdom/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Kingdom/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Kingdom/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Kingdom/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Package/ArrayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Package/Elimination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankGround/AccountUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankGround/CustomerAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigDogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Carl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CarlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Example9A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/FunctionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/MainWoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/PredicateSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/SupplierSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/UnaryOperatorSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/functionalInterface/Woman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckAndUncheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cohort12/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cohort12/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ColdWar/Semicolon/Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/UnicornWimp/hareAndTortoise/RaceCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommissionEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Counting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DivideByZeroNoExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DrumKit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DrumKitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileAndInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalInterface/BiConsumerSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalInterface/BiFunctionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalInterface/BiPredicateSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalInterface/BinaryOperatorSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalInterface/ConsumerSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page3/HealthProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PetrolPurchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PetrolPurchaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecureNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SongTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Structure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Titato/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Titato/Mark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Titato/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/checkForOutlier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/BankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/BankTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/TurtleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/TurtleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Evolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Evolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/turn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/turn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/MBsBankSystem/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/MBsBankSystem/AccountTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +87,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="JUnit5 Test Class" />
         <option value="Enum" />
+        <option value="JUnit5 Test Class" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -95,6 +145,8 @@
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
+      <recent name="ColdWar.Semicolon" />
+      <recent name="Titato" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Assignment" />
@@ -104,79 +156,49 @@
       <recent name="SystemBookHotel" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InputStreamSample">
-    <configuration name="Cohort12.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cohort12.Main" />
+  <component name="RunManager" selected="Application.CheckAndUncheck">
+    <configuration name="CarlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarlTest" />
       <module name="javaExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Cohort12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputStreamSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5.InputStreamSample" />
+    <configuration name="CheckAndUncheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckAndUncheck" />
       <module name="javaExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cohort12.Intro" />
+    <configuration name="CommissionEmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommissionEmployeeTest" />
       <module name="javaExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Cohort12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegMatches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cohort12.RegMatches" />
+    <configuration name="DivideByZeroNoExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DivideByZeroNoExceptionHandling" />
       <module name="javaExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Cohort12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Regex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cohort12.Regex3" />
+    <configuration name="SecureNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecureNumber" />
       <module name="javaExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Cohort12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InputStreamSample" />
-        <item itemvalue="Application.Intro" />
-        <item itemvalue="Application.Regex3" />
-        <item itemvalue="Application.RegMatches" />
-        <item itemvalue="Application.Cohort12.Main" />
+        <item itemvalue="Application.CheckAndUncheck" />
+        <item itemvalue="Application.DivideByZeroNoExceptionHandling" />
+        <item itemvalue="Application.CommissionEmployeeTest" />
+        <item itemvalue="Application.SecureNumber" />
+        <item itemvalue="Application.CarlTest" />
       </list>
     </recent_temporary>
   </component>
@@ -213,10 +235,64 @@
       <workItem from="1661695494671" duration="96375000" />
       <workItem from="1662625657141" duration="24910000" />
       <workItem from="1662777210891" duration="58952000" />
+      <workItem from="1663929455366" duration="17946000" />
+      <workItem from="1664227410912" duration="22827000" />
+      <workItem from="1664872310504" duration="29793000" />
+      <workItem from="1665059657676" duration="13430000" />
+      <workItem from="1666125395782" duration="5082000" />
+      <workItem from="1666169520987" duration="2498000" />
+      <workItem from="1666297002272" duration="14520000" />
+      <workItem from="1666559911980" duration="8284000" />
+      <workItem from="1667551530937" duration="2108000" />
+      <workItem from="1667553952916" duration="15585000" />
+      <workItem from="1667826556304" duration="27623000" />
+      <workItem from="1669324288284" duration="17973000" />
+      <workItem from="1669756109011" duration="28906000" />
+      <workItem from="1671176215328" duration="1633000" />
+      <workItem from="1671270639533" duration="51651000" />
+      <workItem from="1672788257838" duration="1824000" />
+      <workItem from="1673427446692" duration="2207000" />
+      <workItem from="1674036394431" duration="297000" />
+      <workItem from="1674208151245" duration="10238000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ColdWar/Semicolon/Code.java</url>
+          <line>11</line>
+          <properties class="ColdWar.Semicolon.Code">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Test/checkForOutlierTest.java</url>
+          <line>8</line>
+          <properties class="checkForOutlierTest" method="checkOutlier">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
