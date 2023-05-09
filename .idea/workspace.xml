@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7befa49c-b83c-4c6b-aa3d-3a399971af36" name="Changes" comment="CheckAndUncheck">
-      <change afterPath="$PROJECT_DIR$/src/AscendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Birds/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Birds/DuckMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Customer/Customer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EasyCode/com/ArraySample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EasyCode/com/ConnectLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EasyCode/com/Mapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EasyCode/com/OrderList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EasyCode/com/TryStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EasyCode/com/WorkingList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EasyCode/com/WorkingWithQuene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functionality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainVairable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MapValue/com/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MapValue/com/MapFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxAndMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Public.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PublicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Statement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tic_Tac_Toe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7befa49c-b83c-4c6b-aa3d-3a399971af36" name="Changes" comment="CheckAndUncheck" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -230,7 +203,7 @@
       <workItem from="1679814694767" duration="52404000" />
       <workItem from="1680700220860" duration="9991000" />
       <workItem from="1682065285278" duration="7444000" />
-      <workItem from="1683627806775" duration="1068000" />
+      <workItem from="1683627806775" duration="1400000" />
     </task>
     <servers />
   </component>
