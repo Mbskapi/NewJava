@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7befa49c-b83c-4c6b-aa3d-3a399971af36" name="Changes" comment="CheckAndUncheck" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CAwEsYkfk99Obci2OragsWcH8V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/user/IdeaProjects/NewJava/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/javaExercise/src&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="MapValue.com.Customer" />
+      <recent name="Customer" />
+      <recent name="GenericExample." />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\javaExercise\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\javaExercise\Test\MBsBankSystem" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="organizationpattern" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="MBsBankSystem" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="ColdWar.Semicolon" />
+      <recent name="Titato" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Assignment" />
+      <recent name="" />
+      <recent name="myersBriggs" />
+      <recent name="SevenSegment" />
+      <recent name="SystemBookHotel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OrderList">
+    <configuration name="AscendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AscendingOrder" />
+      <module name="javaExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapValue.com.MapFunction" />
+      <module name="javaExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MapValue.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxAndMin" />
+      <module name="javaExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EasyCode.com.OrderList" />
+      <module name="javaExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EasyCode.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetMethod" />
+      <module name="javaExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OrderList" />
+        <item itemvalue="Application.MapFunction" />
+        <item itemvalue="Application.MaxAndMin" />
+        <item itemvalue="Application.AscendingOrder" />
+        <item itemvalue="Application.SetMethod" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7befa49c-b83c-4c6b-aa3d-3a399971af36" name="Changes" comment="" />
+      <created>1658258591537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658258591537</updated>
+      <workItem from="1658258593897" duration="10256000" />
+      <workItem from="1658346945233" duration="1057000" />
+      <workItem from="1658348127789" duration="2864000" />
+      <workItem from="1658527015960" duration="60519000" />
+      <workItem from="1658960507793" duration="375000" />
+      <workItem from="1658961029168" duration="85000" />
+      <workItem from="1658994328834" duration="1089000" />
+      <workItem from="1658995451301" duration="2833000" />
+      <workItem from="1658998832940" duration="3189000" />
+      <workItem from="1659005657697" duration="3799000" />
+      <workItem from="1659082094155" duration="1230000" />
+      <workItem from="1659168100451" duration="161000" />
+      <workItem from="1659168312204" duration="47865000" />
+      <workItem from="1659540400817" duration="3387000" />
+      <workItem from="1659601322862" duration="45983000" />
+      <workItem from="1659734301160" duration="28601000" />
+      <workItem from="1660208665118" duration="7195000" />
+      <workItem from="1660220790991" duration="1193000" />
+      <workItem from="1660253183057" duration="7290000" />
+      <workItem from="1660340573272" duration="2046000" />
+      <workItem from="1660342845612" duration="64405000" />
+      <workItem from="1661258364306" duration="37881000" />
+      <workItem from="1661695494671" duration="96375000" />
+      <workItem from="1662625657141" duration="24910000" />
+      <workItem from="1662777210891" duration="58952000" />
+      <workItem from="1663929455366" duration="17946000" />
+      <workItem from="1664227410912" duration="22827000" />
+      <workItem from="1664872310504" duration="29793000" />
+      <workItem from="1665059657676" duration="13430000" />
+      <workItem from="1666125395782" duration="5082000" />
+      <workItem from="1666169520987" duration="2498000" />
+      <workItem from="1666297002272" duration="14520000" />
+      <workItem from="1666559911980" duration="8284000" />
+      <workItem from="1667551530937" duration="2108000" />
+      <workItem from="1667553952916" duration="15585000" />
+      <workItem from="1667826556304" duration="27623000" />
+      <workItem from="1669324288284" duration="17973000" />
+      <workItem from="1669756109011" duration="28906000" />
+      <workItem from="1671176215328" duration="1633000" />
+      <workItem from="1671270639533" duration="51651000" />
+      <workItem from="1672788257838" duration="1824000" />
+      <workItem from="1673427446692" duration="2207000" />
+      <workItem from="1674036394431" duration="297000" />
+      <workItem from="1674208151245" duration="19515000" />
+      <workItem from="1674852665115" duration="2263000" />
+      <workItem from="1675119669010" duration="1258000" />
+      <workItem from="1676934224321" duration="28509000" />
+      <workItem from="1678717986949" duration="28055000" />
+      <workItem from="1679304159162" duration="2046000" />
+      <workItem from="1679346017570" duration="2486000" />
+      <workItem from="1679396015556" duration="3172000" />
+      <workItem from="1679814694767" duration="52404000" />
+      <workItem from="1680700220860" duration="9991000" />
+      <workItem from="1682065285278" duration="7444000" />
+      <workItem from="1683627806775" duration="2534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CheckAndUncheck" />
+    <option name="LAST_COMMIT_MESSAGE" value="CheckAndUncheck" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ColdWar/Semicolon/Code.java</url>
+          <line>11</line>
+          <properties class="ColdWar.Semicolon.Code">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Test/checkForOutlierTest.java</url>
+          <line>8</line>
+          <properties class="checkForOutlierTest" method="checkOutlier">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
