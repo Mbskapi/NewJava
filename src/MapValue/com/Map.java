@@ -1,2 +1,6 @@
-package MapValue.com;public interface map {
+package MapValue.com;
+
+import java.util.HashMap;
+
+public interface Map {
 }

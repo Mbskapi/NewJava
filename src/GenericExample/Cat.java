@@ -1,2 +1,5 @@
-package GenericExample;public class Cat {
+package GenericExample;
+
+public class Cat {
+
 }

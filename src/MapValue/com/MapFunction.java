@@ -1,15 +1,33 @@
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Set;
+package MapValue.com;
+
+
+import java.util.Comparator;
 
 public class MapFunction {
-    public static <Customer> void main(String[] args) {
-        Map<String, customer1> map = new HashMap<>();
+    public static void main(String[] args) {
 
-        Customer customer1 = new Customer();
-        Customer customer2 = new Customer()
-        }
+        Comparator<String> StringComparator = new Comparator<String>() {
+            @Override
+            public int compare(String o1, String o2) {
+                return o1.compareTo(o2);
+
+            }
+        };
+        int comparison = StringComparator.compare("hello", "world");
+        System.out.println(comparison);
+
+        Comparator<String> StringLambda =
+                (String o1, String o2) -> {
+                    return o1.compareTo(o2);
+
+                };
+
+
+    }
+}
+
+
+
 
 
 
